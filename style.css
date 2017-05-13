@@ -1,10 +1,10 @@
-ul.header-list {
+ul.header-list li {
 	list-style: none;
 	float: right;
 	display: inline;
 }
 
-ul.footer-list {
+ul.footer-list li {
 	list-style: none;
 	float: right;
 	display: inline;
