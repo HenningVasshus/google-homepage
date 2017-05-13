@@ -1,0 +1,11 @@
+ul.header-list {
+	list-style: none;
+	float: right;
+	display: inline;
+}
+
+ul.footer-list {
+	list-style: none;
+	float: right;
+	display: inline;
+}
