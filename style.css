@@ -4,6 +4,13 @@ ul.header-list li {
 	display: inline;
 }
 
+footer {
+	height: 100px;
+	width: 100%;
+	position: absolute;
+	background-color: grey;
+}
+
 ul.footer-list li {
 	list-style: none;
 	float: right;
