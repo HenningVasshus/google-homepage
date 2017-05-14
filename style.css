@@ -1,8 +1,24 @@
-ul.header-list li {
-	list-style: none;
-	float: right;
-	display: inline;
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #333;
 }
+
+
+ul.header-list {
+	float: right;
+}
+
+
+
+
+
+
+
+
+
+
 
 footer {
 	left: 0;
@@ -13,8 +29,7 @@ footer {
 	background-color: DarkGrey;
 }
 
-ul.footer-list li {
-	list-style: none;
+ul.footer-list {
 	float: right;
 	display: inline;
 }
